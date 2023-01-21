@@ -9,7 +9,6 @@
     1. [Calculation Improvements](#calculationimprovements)
     2. [Platform Imrpovements](#platformimprovements)
     3. [Code Quality Improvements](#codequalityimprovements)
-5. [How to Contribute](#howtocontribute)
 
 <a name="introduction"></a>
 ## Introduction 
