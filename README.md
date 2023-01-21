@@ -1,7 +1,6 @@
 # Spotify Analysis
 
 ## Contents
-0. [Introduction](#introduction)
 1. [Installation](#installation) 
 2. [Usage](#usage)
 3. [Project Architecture](#projectarchitecture)
@@ -11,10 +10,6 @@
     3. [Code Quality Improvements](#codequalityimprovements)
 
 <a name="introduction"></a>
-## Introduction 
-
-Welcome to Spotify Analysis. 
-Enjoy learning more about the music you listen to and your personal listening habits.
 
 
 <a name="installation"></a>
