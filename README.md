@@ -4,12 +4,6 @@
 1. [Installation](#installation) 
 2. [Usage](#usage)
 3. [Project Architecture](#projectarchitecture)
-4. [Future Improvements](#futureimprovements)
-    1. [Calculation Improvements](#calculationimprovements)
-    2. [Platform Imrpovements](#platformimprovements)
-    3. [Code Quality Improvements](#codequalityimprovements)
-
-<a name="introduction"></a>
 
 
 <a name="installation"></a>
@@ -34,23 +28,3 @@ The Terraform scripts build:
 - All relevant IAM policies / roles
 
 This will generate a datalake of Spotify data locally or in S3.
-
-<a name="futureimprovements"></a>
-## Future Improvements
-
-Any 'TODO' tags in the project.
-
-<a name="calculationimprovements"></a>
-##### Calculation Improvements
-
-<a name="platformimprovements"></a>
-##### Platform Improvements
-- Improve UX
-- Upload as a package
-
-<a name="codequalityimprovements"></a>
-##### Code Quality Imrpovements
-
-<a name="howtocontribute"></a>
-## How to Contribute 
-Make a branch and raise a PR
